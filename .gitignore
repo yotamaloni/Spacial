@@ -1,0 +1,4 @@
+.venv
+.vscode
+personal_notes.txt
+__pycache__
