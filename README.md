@@ -9,7 +9,17 @@
 
 - **Operating System:** Windows / Linux / macOS  
 - **Python Version:** 3.10 or higher  
+
 ---
+
+## Technologies Used
+
+- **Python 3.10**
+- **ChatGPT AI**
+- **Claude AI**
+
+---
+
 
 ## Python Dependencies
 
